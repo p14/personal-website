@@ -1,2 +1,3 @@
-## Personal Website
-This is my personal website built with TypeScript, React, and Material UI. This was built to make future additions easier and to give a brief overview / hub to who I am as a developer. Sections for personal projects and content will be added in the future.
+# Personal Website
+
+This website is made with basic web tools to provide others more information about myself, projects I wish to showcase, and direction on how to get in contact with me. Feel free to use this code as a template for your developer portfolio as well. Happy coding! 😊💻
