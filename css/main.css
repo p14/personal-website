@@ -759,6 +759,14 @@ section .row span {
   border-radius: 2px
 }
 
+.cropped {
+  overflow: hidden;
+}
+
+.cropped img {
+  margin: -5px;
+}
+
 @media (max-width: 37.5em) {
   #projects .project-wrapper__image .thumbnail {
     box-shadow: none;
