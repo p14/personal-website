@@ -302,7 +302,7 @@ screen and (-ms-high-contrast: none) {
 }
 
 .social-links a:hover .fa-github {
-  color: #212121
+  color: #171515
 }
 
 .back-to-top i {
@@ -487,7 +487,7 @@ section .row span {
 
 #contact .contact-wrapper__text,
 #contact .contact-wrapper a {
-  font-size: 2.4rem
+  font-size: 2rem
 }
 
 @media (max-width: 37.5em) {
@@ -596,7 +596,7 @@ section .row span {
 .scroll-down {
   height: 50px;
   width: 30px;
-  border: 2px solid #000000;
+  /* border: 2px solid #000000; */
   border-radius: 50px;
   cursor: pointer
 }
@@ -766,4 +766,8 @@ section .row span {
     margin-bottom: 3.2rem;
     transform: none
   }
+}
+
+.cancel-margin {
+  margin: 0;
 }
