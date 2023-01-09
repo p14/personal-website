@@ -764,7 +764,7 @@ section .row span {
 }
 
 .cropped img {
-  margin: -5px;
+  margin-bottom: -2px;
 }
 
 @media (max-width: 37.5em) {
